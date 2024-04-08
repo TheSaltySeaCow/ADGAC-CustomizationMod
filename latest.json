@@ -1,0 +1,6 @@
+{
+    "version": "1.3.0",
+    "notes": "- Major overhaul",
+    "dll": "https://github.com/TheSaltySeaCow/ADGAC-CustomizationMod/raw/dev/v1.3.0/CustomizationMod.dll",
+    "bundle": "https://github.com/TheSaltySeaCow/ADGAC-CustomizationMod/raw/dev/v1.3.0/customizationui"
+}
